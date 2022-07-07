@@ -1,27 +1,746 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "gilsono@mail.com",
+      "password": "$2a$10$AA.nqCx4KYoo7pEo6xP/7.TSMhTQ0eJ3ppFjVMlxfA1TeFKkTUx7y",
+      "name": "Gilson Oliveira",
+      "cpf": "11122233355",
+      "phone": "12991302425",
+      "atribution": "host",
       "id": 1
     },
     {
-      "email": "matheus@mail.com",
-      "password": "$2a$10$UdMvjlREF61gi0Zii7GcauIUN4fKdvo9jEjIxmetYU0rUb5alJpsi",
-      "age": "26",
-      "name": "Matheus",
+      "email": "cardosofer@mail.com",
+      "password": "$2a$10$CF0fqmvcl9W90Nnbl/kSjeseBYDW2mJxw9jAVxF.qgR/kaQ4J03Wi",
+      "name": "Fernando Cardoso",
+      "cpf": "11122233355",
+      "phone": "12991097071",
+      "atribution": "host",
       "id": 2
+    },
+    {
+      "email": "celsomsantos@mail.com",
+      "password": "$2a$10$.cT8a.0d6TuF9Mw.iggNZuN73rq.vTu804Lf4huweZ1pmtKLl7jSm",
+      "name": "Celso Santos",
+      "cpf": "11122233355",
+      "phone": "12991023005",
+      "atribution": "host",
+      "id": 3
+    },
+    {
+      "email": "hugodafon@mail.com",
+      "password": "$2a$10$lZvd6//aTLOf5WTQKn.JM.KRTQrkQRZtNC2VNInPbJ47Pht.XNbF.",
+      "name": "Hugo de Afonso",
+      "cpf": "11122233355",
+      "phone": "12991511827",
+      "atribution": "host",
+      "id": 4
+    },
+    {
+      "email": "aninha314@mail.com",
+      "password": "$2a$10$cQUbfhkzc/8Ib4uqhqudze910puW/0BxxEtY18fdIMTJJjWPw8R62",
+      "name": "Ana Vitória",
+      "cpf": "11122233355",
+      "phone": "11997436053",
+      "atribution": "host",
+      "id": 5
+    },
+    {
+      "email": "matheusmoura@mail.com",
+      "password": "$2a$10$xlUDd4kWRSmGO7T7RywoQedHyaLYlu460DG4LXAq5FPNU9ojwW9su",
+      "name": "Matheus Moura",
+      "cpf": "11122233355",
+      "phone": "12981171313",
+      "atribution": "host",
+      "id": 6
+    },
+    {
+      "email": "gustavobox@mail.com",
+      "password": "$2a$10$o/hQiFlt25T6Y6LGezUsr.ngVKbm85xz0bUstuw40opZNnlMG/ry6",
+      "name": "Gustavo Henrique",
+      "cpf": "11122233355",
+      "phone": "12997304040",
+      "atribution": "host",
+      "id": 7
+    },
+    {
+      "email": "rafaelverdao@mail.com",
+      "password": "$2a$10$PJkpT8/QqxO.BxT7rtXcEuOijhnMj977xQP5Z7CFopSL0zoTQmyU6",
+      "name": "Rafael Santos",
+      "cpf": "11122233355",
+      "phone": "12997304040",
+      "atribution": "host",
+      "id": 8
+    },
+    {
+      "email": "nadiassvieira@mail.com",
+      "password": "$2a$10$LwVFps0lmuSqf2b.H1grz.Rp90glzvN/DdZqb9scLUPQ9ogSzNVO.",
+      "name": "Nadia Vieira",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 9
+    },
+    {
+      "email": "wesleydaleramos@mail.com",
+      "password": "$2a$10$1UMM3TwvWPOLMjtvJv/uyOeMuEjuOctHFOk0d/YxsgIgcbS/8oCKW",
+      "name": "Wesley Ramos",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 10
+    },
+    {
+      "email": "evertonbirth@mail.com",
+      "password": "$2a$10$8SxxPSiTiH.a4F764KRNaOT5EUPxuSgbyij7KfVTOxhwqW1k.s4OG",
+      "name": "Everton Nascimento",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 11
+    },
+    {
+      "email": "ribeirokaren@mail.com",
+      "password": "$2a$10$Sh8RjNhXuAnf7TEoKLZQuOLr8Wwd3PMkNbnp.Z61HCfaoW/as835u",
+      "name": "Karen Ribeiro",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 12
+    },
+    {
+      "email": "lucasalmeida@mail.com",
+      "password": "$2a$10$VNXbVEYrMIEX/nmebSifEeyMqKnZ.RqIggXO/bXrZPDSDnxojfJfa",
+      "name": "Lucas Almeida",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 13
+    },
+    {
+      "email": "laraquel@mail.com",
+      "password": "$2a$10$PbZcPvyZBXfXHY72AQtEn.fIIsmhM375fCMGlNoYPFMhWj.YdAZCu",
+      "name": "Raquel Lacerad",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 14
+    },
+    {
+      "email": "davicabral22@mail.com",
+      "password": "$2a$10$N4CBhqCKA0HlO4jwovxmI.3MTwD91CfTz4QvJqr4KusDBw6y7OcSC",
+      "name": "Davi Cabral",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 15
+    },
+    {
+      "email": "garcia646@mail.com",
+      "password": "$2a$10$e0ZPwhl6uJjUVva.BxxPx.lOlyfBBuh4Ha16fjlo3KXubtT6btynC",
+      "name": "Hitalo Garcia",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 16
+    },
+    {
+      "email": "leop55@mail.com",
+      "password": "$2a$10$Y2vmr7oHdsILWplSwVe0xuFtnPoUjwGYdJgUE2PV46jDbErcTOHrq",
+      "name": "Leonardo Passos",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 17
+    },
+    {
+      "email": "carlinha55@mail.com",
+      "password": "$2a$10$j1Z1RmJjx7JqyxvVDfiJROHSJgm66H1YyFNJObr/8s0IUNebBlqDO",
+      "name": "Carla Bastos",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 18
+    },
+    {
+      "email": "angelicasilveira@mail.com",
+      "password": "$2a$10$IQomB5Md4EWNw9bgTz4zsOa8PEKejAUBLPfFxRvqrjpjAF1QjzGtK",
+      "name": "Angelica Silveira",
+      "cpf": "11144433322",
+      "phone": "12997303456",
+      "atribution": "host",
+      "id": 19
+    },
+    {
+      "email": "dehfreitas18@mail.com",
+      "password": "$2a$10$HA8tPun6Hdvfa4Jg5hLAF.chuu1OMqcRDcypzWZIvyp2Tf4IM6z5u",
+      "name": "Débora Freitas",
+      "cpf": "11144433322",
+      "phone": "11974101109",
+      "atribution": "host",
+      "id": 20
     }
   ],
   "homes": [
     {
-      "title": "Testing house name",
-      "description": "aaaaaaaa",
-      "capacity": 5,
+      "title": "Cabana na selva da Jaguatirica",
+      "userId": 1,
+      "description": "Esta nova cabana inserida no meio da Fazenda Ressaca é para quem aprecia design e procura paz, tranqüilidade, conforto e um profundo contato com a natureza.          Elegante, discreta, pequena e bela, esta localizada dentro de uma propriedade com mais de 700 mil mts de área verde preservada, a poucos minutos das praias mais lindas de Ubatuba.          Fazemos a limpeza todos os dias e deixamos todos os ingredientes para que vocês possam preparar seu cafe da manhã.          Ficamos 100% a disposição =)",
+      "address": {
+        "street": "Rua da Garoupa",
+        "city": "Ubatuba",
+        "number": 1700
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 835,
+      "capacity": 2,
+      "id": 0,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-53540620/original/e0cfe1e8-9757-4e4a-9ed4-774f52d497cb.jpeg?im_w=960",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-53540620/original/1917f0e2-b90e-4b26-a444-a9f2dc2503e6.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-53540620/original/d990fbdc-114d-441c-bbde-d714c341a2e0.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-53540620/original/97cbab2d-82f7-4d29-bf7b-086d65eab707.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-53540620/original/a71bc0db-60cd-471f-9cd4-24f04be0d08f.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Chalé Baguari c/banheira hidro",
       "userId": 2,
-      "id": 1
+      "description": "Chalé aconchegante com vista perfeita na Praia Vermelha do Centro; cercado pela Mata Atlântica.      Várias espécies de pássaros, beija-flor, esquilo e lindas borboletas, dividem esses espaço conosco.      Nosso chalé fica próximo ao bairro do Itaguá, onde se encontram supermercados, farmácias, padarias, lojas e restaurantes.",
+      "address": {
+        "street": "Ac. Franklin de Tolêdo Piza",
+        "city": "Ubatuba",
+        "number": 1391
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 663,
+      "capacity": 2,
+      "id": 1,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24644722/original/2aa59f85-def4-45cd-b0f8-be61eb48dde1.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/f5664aec-f09c-488f-a9c8-4499d4463ee7.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24644722/original/bbc6bc38-6ec7-43db-bb7b-bbee08ba32b2.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24644722/original/ee2135fe-4e60-4148-aab3-96574b859bc5.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-24644722/original/86c77d1c-102b-4505-af53-39a10f703ee9.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "31B Apto Ubatuba C/ Piscina AR Condicionado e Wifi",
+      "userId": 3,
+      "description": "Amplo Apto com 70 M2, dois dormitórios com Ar condicionado, sendo uma suíte. Churrasqueira na sacada, móveis novos.      muito bem localizado no centro de Ubatuba, a 1 Km da praia do centro, próximo de padaria, supermercado e farmácia.      Apto com Smartv, piscina, elevador.      fechadura eletrônica com senha, vc mesmo pode fazer o check-in a qualquer hora a partir das 14:00 horas, sem se preocupar com o horário.",
+      "address": {
+        "street": "Rua Maria Vitória Jean",
+        "city": "Ubatuba",
+        "number": 348
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 3,
+      "price": 226,
+      "capacity": 6,
+      "id": 2,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/8938a16d-fa9f-46f3-9ff7-bdc6478b0637.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/ee8ce611-961a-442c-b618-6711ebd829e1.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/385a26ce-7d5b-4669-aacb-5516d2aca969.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/06ba8f01-c939-48e1-a34a-f134ab6328f4.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/edef2cba-0566-461f-aaa5-5340dea841c3.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Apt frente mar com ofuro",
+      "userId": 4,
+      "description": "O apartamento não conta com roupas de cama, coberta, travesseiro e toalhas , ficando isso por conta dos hóspedes",
+      "address": {
+        "street": "Rua guarani",
+        "city": "Ubatuba",
+        "number": 537
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": false,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 745,
+      "capacity": 8,
+      "id": 3,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/8dae67b6-e886-415e-8cd9-fdd6ae827e4a.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/20f5a00e-f173-411e-9fc5-6e926c1770f9.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/be297df3-06a1-4fcf-a9d6-1dc12b53955e.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/fc57a556-5e69-4483-8f72-03028de73f83.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/1acd360a-18b9-4fb8-bc71-8d8e4696f5c2.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Contemporânea e sustentável no meio da Natureza",
+      "userId": 5,
+      "description": "A casa do seus sonhos num dos lugares mais tranquilos e bem localizados de Ubatuba.      Uma oportunidade única para viver nesta casa e desfrutar de um descanso cercado pela natureza com o melhor acesso as praias e ao centro de Ubatuba. Localizada no condominio Ressaca, com segurança 24 hs. Internet Wi-Fi por fibra óptica.",
+      "address": {
+        "street": "Rua Dourado",
+        "city": "Ubatuba",
+        "number": 235
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 787,
+      "capacity": 4,
+      "id": 4,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/cd8770cc-0e6a-4a92-a3bb-cc5487aef429.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/31c12631-7504-416d-9ed8-c17e93d54cc9.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/b48b7cb1-42db-4559-93e4-9ec1fefee854.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/84ba9ae0-b3a9-4d45-8647-397d43239a98.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/b70245dc-89be-40d3-8247-8abbab8634d6.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Nade sob uma cachoeira privada em um refúgio tranquilo na floresta",
+      "userId": 6,
+      "description": "Beba um copo refrescante da água de nascente natural e, em seguida, mergulhe na piscina natural isolada desta obra-prima arquitetônica inspirada na natureza no coração da floresta. Colha bananas e observe as borboletas azuis voando também.",
+      "address": {
+        "street": "Rua Moreiras",
+        "city": "Ubatuba",
+        "number": 326
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 902,
+      "capacity": 6,
+      "id": 5,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/71859ab5-663d-4ae9-8e8d-5677e4bb1661.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/9570f02f-b865-49b5-91d8-ebf5ee5465c2.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-6823091/original/517c5be2-a5ad-487f-a97b-d7d75a39e393?im_w=1200",
+        "https://a0.muscache.com/im/pictures/a8aaaed1-496a-4225-b3ad-c6c783679b2f.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/77bd3684-d189-44dd-bfb7-cba39d631021.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa espetacular em Ubatuba, visual 180° do mar",
+      "userId": 7,
+      "description": "Visual cinematográfico, uma das melhores vistas de Ubatuba!! E só chegar que você vai se apaixonar!!! Casa nova e moderna!! Dentro de condomínio fechado, segurança 24 hrs !! Super tranquilo !! Rodeada de mata e mar ideal pra relaxar!! Piscina 100% PRIVADA! Perto do centro e supermercado em caso quera pasear!! Área social com churrasqueira privada! Garagem coberta! Perto da praia! Wi-fi super estável :)",
+      "address": {
+        "street": "Rua Idalina Graça",
+        "city": "Ubatuba",
+        "number": 110
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 1400,
+      "capacity": 8,
+      "id": 6,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26670931/original/6e864679-f1b0-4e66-85d7-6c626be60494.jpeg?im_w=960",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26670931/original/ccddb331-a27f-47eb-af58-6d459a3fb93f.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26670931/original/c220e582-deec-4c81-9a02-b0616f943fce.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26670931/original/f26d00af-ae24-426c-bd91-5ed69489aa32.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-26670931/original/41d0da80-1a86-42ca-aa2e-1619ed60941e.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Pedaço do paraíso com vista privilegiada!",
+      "userId": 8,
+      "description": "Aproveite o charme moderno e vintage desda acomodação totalmente remodelada. Os adereços ecléticos incluem um toca CD com uma coleção com muita MPB e rock, peças de artes de vários lugares do mundo, piano, mesa de sinuca com uma vista de tirar o fôlego e uma confortável área gourmet com piscina e vista para o rio!",
+      "address": {
+        "street": "Rua Manoel Soares da Silva",
+        "city": "Ubatuba",
+        "number": 200
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 850,
+      "capacity": 7,
+      "id": 7,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/4c489243-f64e-4611-904f-d6b27eb4b67c.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/34ea7ee4-1361-4410-a2a3-ce3948cc8445.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/d55ac0bd-3169-414a-a70c-887108a17928.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/8bdf68b5-5cf3-4618-adf8-136309930a8c.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/52801e0f-1f91-4942-b023-1d6ffbefc80e.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Brisa Ubatuba: paraíso moderno /150m da praia",
+      "userId": 9,
+      "description": "",
+      "address": {
+        "street": "Rua Xanthina",
+        "city": "Ubatuba",
+        "number": 35
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 1350,
+      "capacity": 9,
+      "id": 8,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12600126/original/98bd7531-b79a-404c-97c3-84e4c024242a.jpeg?im_w=960",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12600126/original/fd93da94-e94e-45b8-8fb9-8ac89aef0fde.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12600126/original/bf0cc6ee-b921-44d8-a4e9-104c3e3e82ef.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/a3dadd78-2806-428d-9b4a-6418d95caebc.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/79253c41-8b37-4651-b867-f7ec4a9937dd.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Deixe o sol iluminar a seu coração.",
+      "userId": 10,
+      "description": "Relaxe com toda a família nesta acomodação tranquila.      Cada dia, cada momento, cada risada com vocês é uma benção diferente.",
+      "address": {
+        "street": "Rua Juscelino Monteiro",
+        "city": "Ubatuba",
+        "number": 118
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": false,
+        "pet": false,
+        "parking": true,
+        "airConditioning": false
+      },
+      "reviews": 3,
+      "price": 725,
+      "capacity": 10,
+      "id": 9,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/c719ac19-28f3-45ef-9d0d-de216a52cbd8.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/010dd610-54cc-4578-9399-350425696a25.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/3544a5bc-f12b-44a7-8c05-44c241e103a0.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/660b8fb5-cdf2-46b7-8f81-a4b8a4c390a2.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/170c264c-92c6-4806-ab75-3c67196baf4c.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa Azul Marino/ Ponta Grossa Ubatuba",
+      "userId": 11,
+      "description": "Casa com VISTA para o mar no meio de uma preservação natural.      3 suítes , cozinha equipada , churrasqueira , piscina e jacuzzi para desfrutar de dias incríveis.      Não pode fumar no interior da residência e não aceitamos animais de estimação.",
+      "address": {
+        "street": "Estrada do Farol",
+        "city": "Ubatuba",
+        "number": 2767
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 1105,
+      "capacity": 6,
+      "id": 10,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/7bfe6ad1-fbfc-41e9-b066-cf78890b1138.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/58256dc0-807e-46a6-833a-3f63535e08f4.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/1adb5ded-50ac-4e5b-9398-21def0b99973.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/f6976c5a-407e-46c1-aa67-200641fe49b3.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/4cd27077-c75b-41e9-98b4-224030f00a59.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa confortável com piscina para curtir",
+      "userId": 12,
+      "description": "Casa completa com todos utensílios de cozinha e churrasqueira, lugar tranquilo a casa fica localizado entre a praia dura e praia do Lázaro a 1 km e meio da praia",
+      "address": {
+        "street": "Rua Fernando Cirilo Junior",
+        "city": "Ubatuba",
+        "number": 298
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 579,
+      "capacity": 10,
+      "id": 11,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/d1ad8a84-b00b-4e38-8950-d44ed369784f.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/14dec51e-d155-4768-b285-f9309bc167ec.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/67434e18-fb23-4d05-9be0-7835745c16ed.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/68594e10-6e15-46d0-a036-2eb8e1c5904d.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/1e36e510-1a29-437e-9212-3c05473d53cd.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa ampla e confortável",
+      "userId": 13,
+      "description": "Casa ampla, muito confortável e charmosa. Fica a 800 metros do Centro Histórico. Tem padaria e mercado a menos de 100 metros. Sala com lareira, TV a Cabo, cozinha equipada com geladeira, fogão, microondas, 2 pias, mesa e bancadas de apoio, utensílios completo. Temos um quintal enorme (ótimo para seu animalzinho), portão eletrônico e garagem para 2 carros, além de piscina, churrasqueira e forno de pizza. Enfim, tudo de bom para quem procura descanso e conforto!!",
+      "address": {
+        "street": "Estrada Principal Maria Madalena Charleaux",
+        "city": "Ubatuba",
+        "number": 125
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 1100,
+      "capacity": 7,
+      "id": 12,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34413939/original/60fa1f3a-b37d-4a60-b0d1-f78c10d71906.jpeg?im_w=960",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34413939/original/dcf17521-ade3-4bf3-ac4e-4ca81f4fc6e1.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34413939/original/ea55f71a-8f29-444c-ba12-b740a047b357.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34413939/original/146129aa-e37a-4d3b-ae0f-26e9ba317c93.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34413939/original/ece8cf02-bb44-46de-950a-95938082ef09.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa Caçandoca - Janelas para o mar",
+      "userId": 14,
+      "description": "Casa de alto padrão com vista ao mar, arquitetura única, ambientes amplos, arejados, com muita luz natural, conforto, sofisticação e total integração com a natureza.      A casa esta localizada em meio a encosta do mar, rodeada pela mata atlântica      com vista espetacular em todas as 5 suites e piscina ampla com borda infinita e prainha.      Tenha a experiência única de se hospedar em um verdadeiro tesouro arquitetonico.",
+      "address": {
+        "street": "Rua Benedita Luiza dos Santos",
+        "city": "Ubatuba",
+        "number": 1397
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 1479,
+      "capacity": 12,
+      "id": 13,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/2980d20c-da8a-43fc-adf2-afc1a882f59d.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/23ad9b4f-15e7-48ce-a1eb-7cee36088f42.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1588852/original/5a5dd161-be9e-4982-89c3-e3f47847cb04.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/cbcbf67c-1382-45ed-b692-9ad2341f1b55.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1588852/original/154645b5-ad59-4f7d-8467-940e3e3bd0b7.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa piscina jacuzzi aquecida",
+      "userId": 15,
+      "description": "casa em local tranquilo , duas suites mais um lavabo , grande quintal na frente com área com piscina e espaço gormet",
+      "address": {
+        "street": "Rua Jaqueira",
+        "city": "Ubatuba",
+        "number": 20
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 950,
+      "capacity": 8,
+      "id": 14,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/da1f7a19-e18a-472e-8da6-1fc4dea2947d.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/d1b0d10d-8125-4b99-8464-a547b75404f3.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/ca986f03-a5e5-4c5d-8d87-a7bc7f7019a0.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/81f63bd2-1bea-43fb-8e1c-7b9d3c4a667c.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/2b39b384-63ac-4a97-ba01-190b5ba4a069.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Relaxante, Piscina, Coqueiros, 100m da praia!",
+      "userId": 16,
+      "description": "Nossa casa fica a 100M da praia e você vai adorá-la pela incrível área externa de 500 M2 com uma linda piscina de azulejos, Churrasqueira, forno de pizza, varanda enorme, Área verde, mata nativa, palmeiras, gramado, pássaros, redes e mesa de madeira maciça.",
+      "address": {
+        "street": "Rua Quinze Itambuca",
+        "city": "Ubatuba",
+        "number": 448
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 630,
+      "capacity": 16,
+      "id": 15,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/c894958c-ae0d-492a-8c9e-dbd32a5c468f.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/18f6cb2b-b978-4b52-9c67-b8c488d46153.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/dd816022-95ea-410b-b2a4-22b842cc9708.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/dc3ed8ce-1bd0-43ab-b1d8-fbb0a25c7056.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/74d61cc9-911d-48d0-a7a4-45356044a362.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa do Farol - piscina , píer, churrasqueira",
+      "userId": 17,
+      "description": "Casa situada ao lado do farol da Ponta Grossa em Ubatuba , acomoda até 14 pessoas, com entrada privativa para um píer com acesso ao mar ideal para um mergulho.      Área de lazer com piscina aquecida , salão com churrasqueira, mesa de ping pong , sala e cozinha.",
+      "address": {
+        "street": "Estrada do Farol",
+        "city": "Ubatuba",
+        "number": 3017
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 1254,
+      "capacity": 14,
+      "id": 16,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/1d18115c-a17c-401f-912e-968556e58c60.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/54917b86-338e-4313-888c-5bfecc26bf1d.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/ff9156f8-32b9-4bcf-b751-5189dd62f594.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/bceacf96-6eb9-4df3-8695-c21e8d6c22c9.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/b2e7f68c-9ad9-493a-93bb-36a0ee226b9d.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Praia das Toninhas/ Ubatuba-SP/ Condomínio Fechado",
+      "userId": 18,
+      "description": "Casa com piscina em condomínio fechado de alto padrão com total segurança ao lado da praia das Toninhas e muito próximo do centro de Ubatuba. Condominio Ponta das Toninhas em Ubatuba ! Casa térrea com 300 m2 de área construída em um terreno de 950 m2. São 4 suítes com capacidade para até 10 pessoas e área de lazer com piscina. Casa nova recém construída com todos utensílios de cozinha. Área Gourmet, Home e suítes com ar condicionado. Para maiores detalhes entrar em contato com proprietário.",
+      "address": {
+        "street": "Rua Casemiro de Abreu",
+        "city": "Ubatuba",
+        "number": 144
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": false,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 864,
+      "capacity": 10,
+      "id": 17,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-42202161/original/00f22b27-60c7-4550-96a9-4dd81f560d4d.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/ed7f74c7-934a-4811-bab3-b44edaadddf1.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/0d878d96-8cc2-4c36-9ac6-8372d64ebbe3.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/f5eec0cd-7bff-45a3-94b0-1a27a81b66af.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-42202161/original/e353d799-d6a2-4bc0-85eb-87beb0c32ee1.jpeg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Casa Dos Esportes , Praia do Sapê - Ubatuba SP",
+      "userId": 19,
+      "description": "Um Espaço único, que nasceu da minha vontade de ter um lugar para praticar alguns esportes sem sair de casa. Um espaço onde a prática esportiva está aliada ao conforto e a natureza. Ubatuba tem mais de 100 praias, a praia do sapê está entre as mais belas, a ilha do pontal se situa na frente e vale a visita.",
+      "address": {
+        "street": "Av Tenente Manoel Barbosa da Silva",
+        "city": "Ubatuba",
+        "number": 422
+      },
+      "conforts": {
+        "pool": true,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 4,
+      "price": 1395,
+      "capacity": 8,
+      "id": 18,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/bec812f6-6e9e-41a5-a09d-af2c0ecc7a82.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/ef4cc22e-5008-407b-8611-d788e73833bf.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/6a79b8ec-8661-4032-9bfb-c4f6032b9f22.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/e62ae490-9fa7-4a57-9e80-bfdfcca1de07.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/9538fa3a-b0f2-472c-9d9d-7ad0f011c8e6.jpg?im_w=1200"
+      ]
+    },
+    {
+      "title": "Maravilhosa casa, pé na areia",
+      "userId": 20,
+      "description": "De frente para o mar, pé na areia, em um terreno muito grande, cercado de muito verde, árvores e muita privacidade em uma linda casa de alto padrão com todo conforto. É uma casa térrea, linda, e a área externa é um verdadeiro paraíso. A casa é perfeita para casais e famílias (com crianças).",
+      "address": {
+        "street": "Rua Custódio Alves Barreto",
+        "city": "Ubatuba",
+        "number": 69
+      },
+      "conforts": {
+        "pool": false,
+        "wifi": true,
+        "pet": true,
+        "parking": true,
+        "airConditioning": true
+      },
+      "reviews": 5,
+      "price": 1500,
+      "capacity": 12,
+      "id": 19,
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/e2bb1b10-dbf7-4c44-9028-46169533d1ce.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/45ea3fc1-7147-49c5-8d09-a7a9f335ec7d.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/9217ffa0-c3f9-412e-8b45-ede2979e36e8.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/5d5594d0-be9a-49c7-966e-0e033559e292.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/28677db0-ec89-4284-8f49-27990b91bf15.jpg?im_w=1200"
+      ]
     }
   ],
   "rents": []
