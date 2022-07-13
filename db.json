@@ -445,8 +445,8 @@
       },
       "conforts": {
         "pool": false,
-        "wifi": false,
-        "pet": false,
+        "wifi": true,
+        "pet": true,
         "parking": true,
         "airConditioning": false
       },
